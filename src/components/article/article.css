@@ -5,14 +5,16 @@
     flex-direction: column;
     background: var(--color-footer);
 }
-.pgt3__blog-container_article-image{
+.gpt3__blog-container_article-image{
     width: 100%;
     height: 100%;
     background: var(--color-bg);
+    overflow: hidden;
 }
 .gpt3__blog-container_article-image img {
     width: 100%;
     height: 100%;
+    object-fit: cover;
 }
 .gpt3__blog-container_article-content {
     display: flex;
