@@ -11,7 +11,7 @@ const Header = () => (
 
       <div className="gpt3__header-content__input">
         <input type="email" placeholder="Your Email Address" />
-        <button type="button">Get Started</button>
+        <button type='button'><a href = "https://openai.com/index/gphttps://chatgpt.com/auth/login?openaicom_referred=truet-3-apps/">Get Started</a></button>
       </div>
 
       <div className="gpt3__header-content__people">

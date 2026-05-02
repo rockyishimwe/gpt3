@@ -32,9 +32,10 @@
 }
 .gpt3__whatgpt3-heading p{
     font-family: var(--font-family);
-    font-weight:500; 
+    font-weight:600; 
     font-size: 16px;
-    line-height: 30px;
+    margin-top: 0px;
+    line-height: 34px;
     color: var(--color-subtext);
     cursor: pointer;
 }

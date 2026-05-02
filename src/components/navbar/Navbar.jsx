@@ -41,15 +41,6 @@ const Navbar = () => {
         </div>
       </div>
 
-      <div className='gpt3__navbar-actions'>
-        <button className='gpt3__navbar-signin' type='button'>
-          Sign in
-        </button>
-        <button className='gpt3__navbar-signup' type='button'>
-          Sign up
-        </button>
-      </div>
-
       <div className='gpt3__navbar-menu'>
         <button
           type='button'
@@ -65,14 +56,6 @@ const Navbar = () => {
           <div className='gpt3__navbar-menu-container scale-up-center'>
             <div className='gpt3__navbar-menu-links'>
               <Menu onNavigate={handleNavigate} />
-            </div>
-            <div className='gpt3__navbar-menu-actions'>
-              <button className='gpt3__navbar-signin' type='button'>
-                Sign in
-              </button>
-              <button className='gpt3__navbar-signup' type='button'>
-                Sign up
-              </button>
             </div>
           </div>
         )}

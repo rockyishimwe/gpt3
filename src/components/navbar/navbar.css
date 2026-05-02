@@ -39,9 +39,7 @@
     list-style: none;
 }
 
-.gpt3__navbar-links-list a,
-.gpt3__navbar-signin,
-.gpt3__navbar-signup {
+.gpt3__navbar-links-list a {
     color: #fff;
     font-family: var(--font-family);
     font-weight: 500;
@@ -56,18 +54,9 @@
     align-items: center;
     gap: 1rem;
 }
-
-.gpt3__navbar-signin,
-.gpt3__navbar-signup,
 .gpt3__navbar-menu-toggle {
     border: none;
     background: transparent;
-}
-
-.gpt3__navbar-signup {
-    padding: 0.75rem 1.25rem;
-    background: #FF4820;
-    border-radius: 5px;
 }
 
 .gpt3__navbar-menu {

@@ -14,11 +14,12 @@ const Footer = () =>(
     </div>
     <div className='gpt3__footer-links'>
       <div className='gpt3__footer-links_logo'>
-        <img src={gpt3Logo} alt="gpt3_logo" />
+        <img src={gpt3Logo} alt="logo" />
         <p>Kigali . Rwanda ,<br />All Rights Reserved</p>
       </div>
       <div className='gpt3__footer-links_div'>
         <h4>Links</h4>
+        <p>Overons</p>
         <p>Social Media</p>
         <p>Counters</p>
         <p>Contact</p>
