@@ -10,7 +10,7 @@ const Footer = () =>(
       </h1>
     </div>
     <div className='gpt3__footer-btn'>
-      <p>Request Early Access</p>
+      <p><a href='https://chatgpt.com/auth/login?openaicom_referred=true'>Request Early Access</a></p>
     </div>
     <div className='gpt3__footer-links'>
       <div className='gpt3__footer-links_logo'>
@@ -19,9 +19,9 @@ const Footer = () =>(
       </div>
       <div className='gpt3__footer-links_div'>
         <h4>Links</h4>
-        <p>Overons</p>
+        <p>About</p>
         <p>Social Media</p>
-        <p>Counters</p>
+        <p>Features</p>
         <p>Contact</p>
       </div>
       <div className='gpt3__footer-links_div'>

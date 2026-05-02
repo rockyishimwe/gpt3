@@ -12,14 +12,14 @@ const Blog = () => {
     </div>
     <div className='gpt3__blog-container'>
       <div className='gpt3__blog-container_groupA'>
-        <Article imgUrl={blog01} date="Sep 26,2021" text="GPT-3 and Open AI is the future.Let us Explore how it is?" />
+        <Article imgUrl={blog01} date="Sep 26,2021" text="GPT-3 and the Future of AI: Exploring Natural Language Processing" />
       </div>
       <div className='gpt3__blog-container_groupB'>
         
-        <Article imgUrl={blog02} date='Sep 26,2021' text="GPT-3 and Open AI is the future. Let us Explore how it is?"/>
-        <Article imgUrl={blog03} date='Sep 26,2021' text="GPT-3 and Open AI is the future. Let us Explore how it is?"/>
-        <Article imgUrl={blog04} date='Sep 26,2021' text="GPT-3 and Open AI is the future. Let us Explore how it is?"/>
-        <Article imgUrl={blog05} date='Sep 26,2021' text="GPT-3 and Open AI is the future. Let us Explore how it is?"/>
+        <Article imgUrl={blog02} date='Sep 26,2021' text="Building Production-Ready Apps with OpenAI: A Developer's Guide"/>
+        <Article imgUrl={blog03} date='Sep 26,2021' text="From Prototype to Product: Scaling GPT-3 Applications Effectively"/>
+        <Article imgUrl={blog04} date='Sep 26,2021' text="GPT-3 Use Cases: Beyond Chatbots and Content Generation"/>
+        <Article imgUrl={blog05} date='Sep 26,2021' text="Understanding GPT-3 Limitations: What It Can and Cannot Do"/>
 
       </div>
     </div>
