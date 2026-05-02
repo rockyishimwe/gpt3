@@ -23,7 +23,7 @@ generators, and AI-powered tools that transform how we work and create.</p>
     </div>
 
     <div className="gpt3__header-image">
-       <img src={ai} alt='AI image' />
+       <img src={ai} alt='AI' />
     </div>
   </div>
 );
